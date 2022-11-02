@@ -38,7 +38,6 @@ public class GameState {
 		p1.moveLeft(g1);
 		p1.moveLeft(g1);
 		p1.moveLeft(g1);
-		p1.moveLeft(g1);
 		
 		g1.updateGrid(p1.getXPosition(), p1.getYPosition(), p1.getCharacter());
 		g1.updateGrid(t1.getXPosition(), t1.getYPosition(), t1.getCharacter());
