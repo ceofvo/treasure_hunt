@@ -7,6 +7,7 @@ public class Unit {
 	 private int xPosition;
 	 private int yPosition;
 	 private String character;
+	 private String demola;
 	 
 	 public Unit() {
 		 this.name = "Unit";
